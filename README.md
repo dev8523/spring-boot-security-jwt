@@ -12,4 +12,4 @@ An end-to-end application to learn about spring boot security with JWT.
 # Step 2- Intercept all incoming requests
 - Extract JWT from the header
 - Validate and set in execution context
-
+For this, we have to create Filters
