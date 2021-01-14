@@ -1,6 +1,10 @@
 # spring-boot-security-jwt
 An end-to-end application to learn about spring boot security with JWT.
 
+# Why JWT
+- One of the best secure way to communicate from client to server. 
+- To follow Stateless authentication mechanism -> means our input is not stored in server memory/Cookies.
+
 # You will learn how to do JWT autherization in Spring Security.
 - Create a new authentication API endpoint.
 - Examine every incoming request for valid JWT & authorize.
